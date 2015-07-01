@@ -16,13 +16,21 @@ This project is an **Open Source** project encouraging everyone to be fearless i
 
 <br>
 
+## Contributing
+
+* __Don't be afraid!__ You don't need to submit code to contribute to the success of a project! Don't hold back on submitting issues, commenting on discussions and helping people out.
+
+* __Tell us everything.__ When filing bug reports, be generous in the details: environment, OS, steps to replicate, and so on.
+
+<br>
+
 ## Submitting code
 
 * __Check development notes.__ Any details on setting up a development environment, running tests, releasing versions and such are kept in a file like `NOTES.md`.
 
 * __Be a good citizen.__ Try your best to adhere to the established styles of the project. This doesn't mean that you shouldn't break them, but be prepared to have a reason if you do.
 
-* __Be informative.__ Format your pull requests nicely.
+* __Be informative.__ Format your pull requests nicely. Include screenshots if applicable.
 
 <br>
 
@@ -63,6 +71,8 @@ Individuals making valuable contributions are encouraged to be added as collabor
 * __Set up continuous-integration.__ A CI service like [Travis] will inspect PR's so you don't have to.
 
 * __Be decisive.__ Don't be afraid to put your foot down on issues like API design decisions.
+
+* __Thank people.__ People put in their hard work. Gratitude goes a long way.
 
 * __Be nice.__ The open source community is nice, so we are nice.
 
