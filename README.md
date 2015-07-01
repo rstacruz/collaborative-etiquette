@@ -1,4 +1,4 @@
-> **Instructions:** link this page from your project like so:<br>
+> **Instructions:** link this page from your project's README.md and CONTRIBUTING.md:<br>
 > `This project follows [collaborative etiquette](http://git.io/col) guidelines.`<br>
 > [![](https://img.shields.io/badge/-collaborative_etiquette-blue.svg)](http://git.io/col)
 
@@ -20,7 +20,7 @@ This project is an **Open Source** project encouraging everyone to be fearless i
 
 * __Don't be afraid!__ You don't need to submit code to contribute to the success of a project! Don't hold back on submitting issues, commenting on discussions and helping people out.
 
-* __Tell us everything.__ When filing bug reports, be generous in the details: environment, OS, steps to replicate, and so on.
+* __Tell us everything.__ When filing bug reports, be generous in the details: environment, OS, browser, steps to replicate, and so on.
 
 <br>
 
