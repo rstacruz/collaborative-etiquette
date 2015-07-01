@@ -7,6 +7,8 @@
 
 # Collaborative etiquette <a name='top'></a>
 
+[![](https://img.shields.io/badge/-collaborative_etiquette-blue.svg)](http://git.io/col)
+
 This project is an **Open Source** project encouraging everyone to be fearless in their contributions. This document lists some ground rules to foster a happy collaborative atmosphere.
 
 * Individuals making valuable contributions are added as collaborators (commit access).
