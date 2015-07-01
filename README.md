@@ -12,7 +12,7 @@ This project is an **Open Source** project encouraging everyone to be fearless i
 
 * Individuals making valuable contributions are added as collaborators (commit access).
 
-* This project is more like an open wiki than a standard guarded open source project.
+* This project is more like an open wiki than a standard guarded project.
 
 <br>
 
