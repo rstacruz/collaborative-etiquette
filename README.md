@@ -42,6 +42,8 @@ Individuals making valuable contributions are encouraged to be added as collabor
 
 * __Communicate.__ You can use GitHub issues to communicate with your co-collaborators. Feel free to `@mention` them in issues.
 
+* __Be nice.__ The collaborator team is nice, so we are all nice.
+
 <br>
 
 ## For project releases
@@ -53,6 +55,18 @@ Individuals making valuable contributions are encouraged to be added as collabor
 * __Maintain a changelog.__ Keep the `HISTORY.md` updated as new changes come in.
 
 * __Consult the owner.__ By default, releases will be the prerogative of the project owner.
+
+<br>
+
+## For project owners
+
+* __Set up continuous-integration.__ A CI service like [Travis] will inspect PR's so you don't have to.
+
+* __Be decisive.__ Don't be afraid to put your foot down on issues like API design decisions.
+
+* __Be nice.__ The open source community is nice, so we are nice.
+
+[Travis]: https://travis-ci.org/
 
 <br>
 
