@@ -1,5 +1,7 @@
 > **Instructions:** link this page from your project's README.md and CONTRIBUTING.md:<br>
-> `This project follows [collaborative etiquette](http://git.io/col) guidelines.`<br><br>
+> `This project follows [collaborative etiquette](http://git.io/col) guidelines.`<br>
+> `[![](https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg)](http://git.io/col)`<br>
+> <br>
 > [![](https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg)](http://git.io/col)
 
 ----
