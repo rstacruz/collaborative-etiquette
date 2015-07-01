@@ -7,7 +7,7 @@
 
 # Collaborative etiquette <a name='top'></a>
 
-This project is an **Open Source** project encouraging everyone to be fearless in their contributions.
+This project is an **Open Source** project encouraging everyone to be fearless in their contributions. This document lists some ground rules to foster a happy collaborative atmosphere.
 
 * Individuals making valuable contributions are added as collaborators (commit access).
 
