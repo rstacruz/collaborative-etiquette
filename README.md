@@ -1,7 +1,5 @@
-> **Instructions:** link this page from your project.
-> 
->     This project follows
->     [collaborative etiquette](http://git.io/collab) guidelines.
+> **Instructions:** link this page from your project like so:<br>
+> `This project follows [collaborative etiquette](http://git.io/col) guidelines.`
 
 ----
 
