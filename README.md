@@ -6,9 +6,9 @@
 
 ----
 
-<br>
+<a name='top'></a>
 
-# Collaborative etiquette <a name='top'></a>
+# Collaborative etiquette
 
 This project is an **Open Source** project encouraging everyone to be fearless in their contributions. This document lists some ground rules to foster a happy collaborative atmosphere.
 
