@@ -1,6 +1,6 @@
-> [![](https://img.shields.io/badge/-collaborative_etiquette-blue.svg)](http://git.io/col)<br>
 > **Instructions:** link this page from your project like so:<br>
-> `This project follows [collaborative etiquette](http://git.io/col) guidelines.`
+> `This project follows [collaborative etiquette](http://git.io/col) guidelines.`<br>
+> [![](https://img.shields.io/badge/-collaborative_etiquette-blue.svg)](http://git.io/col)
 
 ----
 
