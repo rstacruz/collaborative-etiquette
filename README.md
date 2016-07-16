@@ -18,7 +18,7 @@ This project is an **Open Source** project encouraging everyone to be fearless i
 
 <br>
 
-## For everyone
+## For issue reporters
 
 * __Don't be afraid!__ You don't need to submit code to contribute to the success of a project! Don't hold back on submitting issues, commenting on discussions and helping people out.
 
