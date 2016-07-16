@@ -70,18 +70,6 @@ Individuals making valuable contributions are encouraged to be added as collabor
 
 <br>
 
-## Doing project releases
-
-* __Release often.__ Publish patch versions as soon as fixes are ready.
-
-* __Always tag releases.__ Tag them in the format of `v1.0.0`.
-
-* __Maintain a changelog.__ Keep the `HISTORY.md` updated as new changes come in.
-
-* __Consult the owner.__ By default, releases will be the prerogative of the project owner.
-
-<br>
-
 ## Acknowledgements
 
 > This is an extension to the [Open Open Source] manifesto.
