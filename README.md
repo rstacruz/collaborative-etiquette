@@ -18,7 +18,7 @@ This project is an **Open Source** project encouraging everyone to be fearless i
 
 <br>
 
-## Contributing
+## For everyone
 
 * __Don't be afraid!__ You don't need to submit code to contribute to the success of a project! Don't hold back on submitting issues, commenting on discussions and helping people out.
 
@@ -26,7 +26,7 @@ This project is an **Open Source** project encouraging everyone to be fearless i
 
 <br>
 
-## Submitting code
+## For contributors
 
 * __Check development notes.__ Any details on setting up a development environment, running tests, releasing versions and such are kept in a file like `NOTES.md`.
 
@@ -56,18 +56,6 @@ Individuals making valuable contributions are encouraged to be added as collabor
 
 <br>
 
-## For project releases
-
-* __Release often.__ Publish patch versions as soon as fixes are ready.
-
-* __Always tag releases.__ Tag them in the format of `v1.0.0`.
-
-* __Maintain a changelog.__ Keep the `HISTORY.md` updated as new changes come in.
-
-* __Consult the owner.__ By default, releases will be the prerogative of the project owner.
-
-<br>
-
 ## For project owners
 
 * __Set up continuous-integration.__ A CI service like [Travis] will inspect PR's so you don't have to.
@@ -79,6 +67,18 @@ Individuals making valuable contributions are encouraged to be added as collabor
 * __Be nice.__ The open source community is nice, so we are nice.
 
 [Travis]: https://travis-ci.org/
+
+<br>
+
+## Doing project releases
+
+* __Release often.__ Publish patch versions as soon as fixes are ready.
+
+* __Always tag releases.__ Tag them in the format of `v1.0.0`.
+
+* __Maintain a changelog.__ Keep the `HISTORY.md` updated as new changes come in.
+
+* __Consult the owner.__ By default, releases will be the prerogative of the project owner.
 
 <br>
 
