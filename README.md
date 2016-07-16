@@ -44,7 +44,7 @@ Individuals making valuable contributions are encouraged to be added as collabor
 
 * __Review outstanding PRs.__ Feel free to merge any you see fit, and leave comments on anything that needs revisions. If you don't feel comfortable merging them, at least comment with a `:+1:` to signal your co-collaborators that it's passed your review.
 
-* __Push directly for micro-fixes.__ Only push to `master` for trivial updates that would be too noisy to notify your teammates of, such as typo fixes.
+* __Push directly for micro-fixes only.__ Only push to `master` for trivial updates that would be too noisy to notify your teammates of, such as typo fixes.
 
 * __You can self-merge your PRs.__ Sometimes the rest of the team may be inactive, in which case, use your best judgement to self-merge PRs.
 
